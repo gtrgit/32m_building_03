@@ -1,3 +1,5 @@
+![Diagram](assets/scene/32m_building_03_.png)
+
 # SDK7 Template scene
 
 ## Try it out
